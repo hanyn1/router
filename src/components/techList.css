@@ -1,0 +1,15 @@
+.row{
+    position: absolute;
+    top: 150px;
+    left: 160px;
+}
+
+.jomla{
+    position: absolute;
+    top: 20px;
+    text-align: center;
+    text-decoration: underline;
+    color: cornflowerblue;
+    left: 400px;
+}
+
